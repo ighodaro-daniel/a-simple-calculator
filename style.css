@@ -1,0 +1,19 @@
+img{
+width:50px;
+padding:0px;
+}
+.logo{
+    display :flex;
+padding-right: 0px;
+}
+h1{
+    font-family:monospace;
+    font-weight: 800px;
+    font-size: 15px;
+    color:black;
+
+
+
+
+}
+
