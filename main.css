@@ -1,0 +1,22 @@
+header{
+    background:url(img/beautiful-woman-applying-cosmetic-cream-to-her-face-portrait-young-close-up-smiling-clean-skin-88995045.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+}
+
+@media screen and(max-width:670px){
+    header{
+        min-height : 500px;
+    }
+}
+span{
+    color:red
+}
+.section{
+    padding-top:4vh;
+    padding-bottom: 4vh;
+}
+.tabs .tab a:focus, .tab a:focus.active{
+background: transparent;
+}
